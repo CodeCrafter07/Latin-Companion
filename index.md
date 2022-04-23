@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Latin Companion
 
 You can use the [editor on GitHub](https://github.com/CodeCrafter07/Latin-Companion/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
